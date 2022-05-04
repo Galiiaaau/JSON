@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "user": [
+    {
+      "fullName": "Leanne Graham",
+      "age": 18,
+      "numOfPets": 2,
+      "salary": 150
+    }
+  ]
+}
