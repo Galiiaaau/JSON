@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "user": [
+    {
+      "favFilm": "Gone with the wind",
+      "favSeries": "The Witcher",
+      "FavSeason": "summer",
+      "country": "Ireland"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "course": "QA",
+  "skills": [
+    {
+      "1": "Postman",
+      "2": "Charles Proxy",
+      "3": "Javascript",
+      "4": "Android Studio"
+    }
+  ]
+}
